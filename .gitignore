@@ -1,0 +1,20 @@
+# Unity WebGL Build
+# Keep all files for GitHub Pages deployment
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp 
